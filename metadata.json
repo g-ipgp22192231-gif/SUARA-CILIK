@@ -1,0 +1,6 @@
+{
+  "name": "SUARACILIK — Komuniti Harmoni",
+  "description": "Aplikasi permainan pengembaraan 3D pendidikan Bahasa Melayu Tahun 4 (KSSR & Inklusif) untuk kemahiran mendengar, memahami dan memberikan respons lisan.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
